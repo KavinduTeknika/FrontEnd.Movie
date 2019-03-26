@@ -5,6 +5,7 @@ import PropTypes from "prop-types";
 import { bindActionCreators } from "redux";
 import MovieList from "./MovieList";
 import Spinner from "../common/Spinner";
+import TextInput from "../common/TextInput";
 
 class MoviePage extends React.Component {
   state = { };
@@ -18,7 +19,6 @@ class MoviePage extends React.Component {
       });
     }
   }
-
   render() {
     return (
       <>

@@ -35,5 +35,3 @@ build
 # Mac files
 .DS_Store
 
-# json-server db
-db.json

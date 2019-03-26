@@ -5,7 +5,7 @@
 2. **Navigate to this project's root directory on the command line.**
 3. **Install Node Packages.** - `npm install`
 4. **Install [React developer tools] and [Redux Dev Tools]** in Chrome.
-5. Having issues? See below.
+
 
 ### Production Dependencies
 
